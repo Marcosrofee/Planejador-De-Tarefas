@@ -1,0 +1,49 @@
+.Form h1{
+    text-align: center;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+    margin-top: 90px;
+    
+}
+
+
+    table {
+       margin-left: 310px;
+       margin-top: 90px;
+    }
+    thead {
+        display: table-header-group;
+        vertical-align: middle;
+        unicode-bidi: isolate;
+        border-color: inherit;
+        
+    }
+    tr{
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 40px;
+    }
+    th{
+       padding-left: 90px;
+    }
+    tbody {
+        display: table-row-group;
+        vertical-align: middle;
+        unicode-bidi: isolate;
+        border-color: inherit;
+        
+    }
+    td{
+        margin-left: 80px;
+    }
+    input{    
+        background: rgba(45, 45, 45, 1);
+        color: rgba(255, 255, 255, 1);
+
+        border: none;
+
+    }
